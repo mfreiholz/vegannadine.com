@@ -1,0 +1,71 @@
+html, body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}
+#page-header {
+}
+#page-header h1 {
+	font-family: 'Montez', cursive;
+	font-size: 4.0em;
+	padding: 0;
+	margin: 0 0 0 1.5em;
+	line-height: 2em;
+}
+#page-slider {
+	background-image: url('http://ento2.net/wp-content/uploads/2016/05/MANGO-5.jpg');
+	background-position: top center;
+	background-repeat: no-repeat;
+	height: 350px;
+	opacity: 0.5;
+}
+#page-content {
+	position: relative;
+	background: rgb(255, 255, 255);
+	margin-top: -5em;
+	padding: 1em;
+	box-shadow: 0px 0px 6px 0px #bbbbbb;
+}
+#page-content .row {
+	margin-bottom: 1em;
+}
+
+/****************** Navigation ***********************************************/
+
+.navbar-default {
+	background: transparent;
+	border: 0;
+}
+
+/****************** Posts ****************************************************/
+
+.post {
+}
+.post-image {
+	height: 150px;
+	border: 0;
+	padding-top: 90px;
+}
+.post-image-overlay {
+	background: rgb(255, 255, 255);
+	opacity: 0.9;
+	padding-left: 1.0em;
+}
+.post-title {
+	color: rgb(102, 153, 0);
+	font-family: 'Amatic SC', cursive;
+	font-size: 1.5em;
+	font-weight: bold;
+	line-height: 2.0em;
+}
+.post-content {
+	color: #999;
+	line-height: 1.5em;
+	padding: 1.3em;
+}
+.post-footer {
+	padding: 0 1.3em;
+	color: #555555;
+}
+.post-footer .post-date {
+	font-size: 0.8em;
+}
