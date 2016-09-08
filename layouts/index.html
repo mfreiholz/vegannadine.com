@@ -2,42 +2,32 @@
 
 <div class="posts-index">
 
-	{{ range first 5 (where .Site.Pages "Section" "posts") }}
+	{{ range $i, $e := first 5 (where .Site.Pages "Section" "posts") }}
 
-	<div class="row">
-		<div class="col-md-6">
+		{{ if eq (mod $i 2) 0 }}
+		<div class="row">
+		{{ end }}
 
-			<div class="post">
-				<div class="post-image"
-					style="background-image: url('{{ .BaseURL }}/img/post-title.png'); background-position: 600px;">
-					<div class="post-image-overlay">
-						<div class="post-title">{{ .Title }}</div>
+			<div class="col-md-6">
+				<div class="post">
+					<div class="post-image" style="background-image: url('/{{ .Section }}/{{ .File.BaseFileName }}.jpg');">
+						<div class="post-image-overlay">
+							<div class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+						</div>
 					</div>
-				</div>
-				<div class="post-content">{{ .Content }}</div>
-				<div class="post-footer">
-					<span class="label label-success">Recipies</span>
-					<span class="post-date">09/04/2016</span>
+					<div class="post-content">{{ substr .Content 0 150 | plainify }} [...] <a href="{{ .RelPermalink }}">Read more</a></div>
+					<div class="post-footer">
+						{{ range .Params.tags }}
+						<span class="label label-success">{{ . }}</span>
+						{{ end }}
+						<span class="post-date">09/04/2016</span>
+					</div>
 				</div>
 			</div>
 
+		{{ if or (eq (mod $i 2) 1) (eq $i 4) }}
 		</div>
-		<div class="col-md-6">
-			<div class="post">
-				<div class="post-image" style="background-image: url('https://blog.vegas.com/wp-content/uploads/2016/02/vegenation_ashley-onoz-wright.jpg'); background-position: 600px 400px;">
-					<div class="post-image-overlay">
-						<div class="post-title">My Title For Posting</div>
-					</div>
-				</div>
-				<div class="post-content">I bin Nadine und will da jetzt a bissal schreiben. Meistens Shoppe ich aber bloss auf meinem Handy und lass mich von
-					meinem blöden Freund verblöddeln.</div>
-				<div class="post-footer">
-					<span class="label label-success">Recipies</span>
-					<span class="post-date">09/04/2016</span>
-				</div>
-			</div>
-		</div>
-	</div>
+		{{ end }}
 
 	{{ end }}
 
