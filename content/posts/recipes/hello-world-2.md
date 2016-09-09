@@ -2,7 +2,7 @@
 date = "2016-09-07T08:31:31+02:00"
 draft = false
 title = "hello world 2"
-tags = ["recipes", "food"]
+tags = ["Recipes"]
 +++
 
 Hey this is my first posting here for some testing. Lorem Ipsum.. you know.
