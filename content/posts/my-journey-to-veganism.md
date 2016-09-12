@@ -1,5 +1,5 @@
 +++
-date = "2016-09-07T08:31:30+02:00"
+date = "2016-09-12T08:31:30+02:00"
 draft = false
 title = "My Journey To Veganism"
 tags = ["Lifestyle"]
@@ -7,9 +7,7 @@ tags = ["Lifestyle"]
 
 Header: A huge part in my journey to plant-based eating was YouTube. Accidentally, I would stumble upon videos about
 vegan recipes, the health benefits from this diet or some rather strange ones about only consuming a very excessive
-amount of bananas the whole day. 
-
-
+amount of bananas the whole day.<!--more-->
 
 Ever since I started uni in the year of 2010, I began trying new types of eating "philosophies"; partly
 because I became conscious of my weight and figure but also because I suddenly found myself very interested in living a healthy 

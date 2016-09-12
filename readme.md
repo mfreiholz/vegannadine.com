@@ -1,0 +1,1 @@
+{{ substr .Content 0 150 | plainify }}

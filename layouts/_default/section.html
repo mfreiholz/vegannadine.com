@@ -2,7 +2,7 @@
 
 <div class="posts-index">
 
-	{{ range $i, $e := first 8 (where .Site.Pages "Section" "posts") }}
+	{{ range $i, $e := .Data.Pages }}
 
 		{{ if eq (mod $i 2) 0 }}
 		<div class="row">
