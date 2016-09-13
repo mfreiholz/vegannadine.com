@@ -1,6 +1,5 @@
 +++
 date = "2016-09-12T08:31:30+02:00"
-draft = false
 title = "My Journey To Veganism"
 tags = ["Lifestyle"]
 +++
@@ -39,4 +38,4 @@ of November,2015. As Kalel had suggested to slowly transition, that's what I dec
 better; more awake, higher levels of energy and the cravings for unhealthy high fat and sugar products drastically reduced. 
 I am writing this post on September 11 of 2016. Having eaten no animal products for a few months now, I can honestly
 say I have arrived. I have never felt better in my life. So, I encourage everyone to be open-minded and try the vegan
-way of life themselves! 
+way of life themselves!

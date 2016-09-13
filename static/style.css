@@ -82,6 +82,13 @@ html, body {
 	color: rgb(102, 153, 0);
 	font-family: 'Amatic SC', cursive;
 	font-size: 2.0em;
+	font-weight: bold;
+}
+
+.post-single .post-content h1, h2, h3 {
+	color: rgb(102, 153, 0);
+	font-family: 'Amatic SC', cursive;
+	font-size: 1.8em;
 }
 
 .post-single .post-content {
