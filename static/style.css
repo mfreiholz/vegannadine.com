@@ -12,8 +12,8 @@ html, body {
 	line-height: 2em;
 }
 #page-slider {
-	background-image: url('http://ento2.net/wp-content/uploads/2016/05/MANGO-5.jpg');
-	background-position: top center;
+	background-image: url('/images/cover-coconut-1.jpg');
+	background-position: 50% 50%;
 	background-repeat: repeat-x;
 	height: 350px;
 	opacity: 0.5;
