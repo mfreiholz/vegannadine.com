@@ -15,7 +15,9 @@ or as the Irish call it porridge.
 
 Today, I would like to share with you my absolute favourite recipe.
 I would be lying if I would not tell you that I have it almost every day for breakfast.
-
+<div style="float:right; padding:12px;">
+![Vegan Chocolate Oatmeal](/posts/chocolate-oatmeal-post.jpg)
+</div>
 ## The ingredients
 
 - ½ cup of fine oats (zarte Haferflocken)
