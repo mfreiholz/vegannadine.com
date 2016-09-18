@@ -114,6 +114,11 @@ html, body {
 	padding: 1.0rem 0;
 }
 
+.post-single .post-content {
+	color: rgb(50, 50, 50);
+	line-height: 1.5em;
+}
+
 .post-single .post-content h1, h2, h3 {
 	color: rgb(102, 153, 0);
 	font-family: 'Amatic SC', cursive;
@@ -128,7 +133,7 @@ html, body {
 	font-size: 1.6rem;
 }
 
-.post-single .post-content {
-	color: rgb(50, 50, 50);
-	line-height: 1.5em;
+.post-single .post-content blockquote {
+	font-size: 1.0rem;
+	font-style: italic;
 }

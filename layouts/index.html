@@ -4,7 +4,7 @@
 
 	{{ $length := len (where .Site.Pages "Section" "posts") }}
 	{{ $lastPostIndex := sub $length 1 }}
-	{{ range $i, $e := first 8 (where .Site.Pages "Section" "posts") }}
+	{{ range $i, $e := first 200 (where .Site.Pages "Section" "posts") }}
 
 		{{ if eq (mod $i 2) 0 }}
 		<div class="row">
