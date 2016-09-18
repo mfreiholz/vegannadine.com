@@ -1,7 +1,7 @@
 +++
 date = "2016-09-13T08:31:30+02:00"
 title = "My Favorite Breakfast"
-tags = ["Recipes"]
+tags = ["Recipes", "Breakfast"]
 +++
 
 Even before I transitioned into a vegan lifestyle, I loved eating oatmeal for breakfast.
