@@ -28,6 +28,13 @@ html, body {
 #page-content .row {
 	margin-bottom: 1em;
 }
+#page-content a {
+	color: rgb(102, 153, 0);
+	text-decoration: none;
+}
+#page-content a:hover {
+	text-decoration: underline;
+}
 
 /****************** Navigation ***********************************************/
 
