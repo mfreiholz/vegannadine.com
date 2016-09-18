@@ -2,6 +2,8 @@
 
 <div class="posts-index">
 
+	{{ $length := len (where .Site.Pages "Section" "posts") }}
+	{{ $lastPostIndex := sub $length 1 }}
 	{{ range $i, $e := first 8 (where .Site.Pages "Section" "posts") }}
 
 		{{ if eq (mod $i 2) 0 }}
@@ -25,7 +27,7 @@
 				</div>
 			</div>
 
-		{{ if or (eq (mod $i 2) 1) (eq $i 74) }}
+		{{ if or (eq (mod $i 2) 1) (eq $i $lastPostIndex) }}
 		</div>
 		{{ end }}
 
