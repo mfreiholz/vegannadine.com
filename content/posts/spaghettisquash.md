@@ -32,7 +32,7 @@ Anyway, let’s get on to the recipe!
 <div style="float:right; padding:12px;">
 ![Falafel Balls](/posts/falafelbasic.jpg)
 </div>
-Start by pre-heating the oven to 200°C and cutting the spaghetti length-wise in half. 
+Start by pre-heating the oven to 200°C and cutting the spaghetti squash length-wise in half. 
 With a table spoon take out the seeds. Once the oven has reached the desired temperature 
 place the pumpkin facing downwards in a baking tray and add a little bit of water. Depending 
 on your oven, it will take anywhere between 30 to 45 minutes. Once a fork can easily pierce 
