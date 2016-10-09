@@ -40,9 +40,18 @@
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav">
 						<li><a href="/">Home</a></li>
-						{{ range $k, $t := .Site.Taxonomies.tags }}
-						<li><a href="/tags/{{ $k }}/">{{humanize $k }}</a>
-						{{ end }}
+
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Recipes</a>
+							<ul class="dropdown-menu">
+								<li><a href="/tags/breakfast/">Breakfast</a></li>
+								<li><a href="/tags/dinner/">Dinner</a></li>
+								<li><a href="/tags/snack/">Snack</a></li>
+							</ul>
+						</li>
+
+						<li><a href="/tags/lifestyle/">Lifestyle</a></li>
+						<li><a href="/tags/travel/">Travel</a></li>
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="https://www.instagram.com/vegan.nadine/" target="_blank">
