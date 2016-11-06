@@ -53,7 +53,7 @@ was absolutely amazing and we of course finished every bite of it.
 
 After another beautiful day at the Kedonganan Beach, we decided to check out the neighboring city of our hotel Seminyak. 
 We were dropped off at the main shopping center Seminyak Square and subsequently to checking out the shops there, we very slowly made our way 
-down the main road looking at all of the interesting clothing and jewelry stores. After finding our favourite Balinese fashion brand [7shore] (www.7shores.com/), 
+down the main road looking at all of the interesting clothing and jewelry stores. After finding our favourite Balinese fashion brand [7shore] (http://www.7shores.com/), 
 we also discovered another amazing vegan restaurant called [Earth Café] (http://www.earthcafebali.com/), which unfortunately can only be found on Bali. 
 Everything we tried was amazing, but the one thing that we absolutely fell in love with is the [Guru Pizza Option 1] (http://www.earthcafebali.com/menu/). 
 We agreed to come back a second time to this restaurant just to have this pizza again!
