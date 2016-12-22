@@ -146,3 +146,9 @@ html, body {
 	font-size: 1.0rem;
 	font-style: italic;
 }
+
+.post-single .post-content figure,
+.post-single .post-content img,
+.post-single .post-content img {
+	max-width: 100%;
+}
