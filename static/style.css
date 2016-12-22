@@ -20,7 +20,7 @@ html, body {
 }
 
 #page-slider {
-	background-image: url('/images/cover-coconut-1.jpg');
+	background-image: url('images/cover-coconut-1.jpg');
 	background-position: 50% 50%;
 	background-repeat: repeat-x;
 	height: 350px;

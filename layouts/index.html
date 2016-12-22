@@ -12,7 +12,7 @@
 
 			<div class="col-md-6">
 				<div class="post">
-					<div class="post-image" style="background-image: url('/{{ .Section }}/{{ .File.BaseFileName }}.jpg');">
+					<div class="post-image" style="background-image: url('{{ .Site.BaseURL }}/{{ .Section }}/{{ .File.BaseFileName }}.jpg');">
 						<div class="post-image-overlay">
 							<div class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
 						</div>
