@@ -5,7 +5,10 @@ tags = ["Lifestyle", "Travel"]
 +++
 
 As our vacation is unfortunately slowly coming to an end here on the beautiful island of Bali, 
-I decided to sum up my experience of searching for and finding plant-based meals.<!--more-->  During our first 
+I decided to sum up my experience of searching for and finding plant-based meals.
+<!--more-->
+
+During our first 
 couple of days, I was made aware of that the typical Balinese culture appreciates a generous amount of meat; 
 especially pork and chicken. Dishes such as Babi Guling, roasted suckling pig, and Nasi Goreng, fried rice with 
 some kind of meat, are no rarity on menus.  Even though this is the case, I found it relatively simple to completely satisfy my appetite. 

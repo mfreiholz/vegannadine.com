@@ -6,7 +6,10 @@ tags = ["Recipes", "Dinner"]
 
 The first step outside of the airport back in Germany indicated to us the drastic change in weather which happened 
 while we were vacationing on Bali. Shorts and t-shirts really weren’t the best choice of outfit anymore, we quickly 
-realized!<!--more--> Perfectly going along with the cold and rainy day, my mom decided to make the ideal healthy comfort food; 
+realized!
+<!--more-->
+
+Perfectly going along with the cold and rainy day, my mom decided to make the ideal healthy comfort food; 
 which for me is chili. I fell in love with her recipe and immediately decided to also share it with you.  
 <div style="float:right; padding:12px;">
 ![Vegan Chili](/posts/veganchili2.jpg)

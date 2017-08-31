@@ -6,7 +6,9 @@ tags = ["Recipes", "Snack"]
 
 
 At the moment my favourite thing to have for lunch is a big smoothie. When I first got into them, however, I always had 
-a feeling that I was never really satisfied. Bonny Rebecca, an awesome Australian Youtuber, had the simple answer.<!--more--> 
+a feeling that I was never really satisfied. Bonny Rebecca, an awesome Australian Youtuber, had the simple answer.
+<!--more--> 
+
 If you are not content after a meal, it simply did not contain enough calories. As the vegan diet is less nutrient dense 
 than one containing animal products, the amount of food a person has to eat needs to be upped. Therefore, instead of my
 smoothies containing one lonely banana they now include three to four; depending on my mood. 

@@ -5,7 +5,10 @@ tags = ["Lifestlye"]
 +++
 
 During our last vacation to Bali, I had a spontaneous idea; which I, with the big help of 
-my boyfriend, have put into reality during the last couple of months!<!--more--> As I realized that 
+my boyfriend, have put into reality during the last couple of months!
+<!--more-->
+
+As I realized that 
 veganism is not yet as heard of in most countries as I thought it to be, I suddenly had the 
 desire to play my part in spreading this very powerful message through 100% vegan T-Shirts. 
 I have been collecting my ideas for witty, vegan designs ever since I got back from Bali and you can now check them out in my online shop [Vegan Nadine] (https://www.vegannadine.com). 

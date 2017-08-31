@@ -7,7 +7,10 @@ tags = ["Recipes", "Breakfast", "Snack", "Dessert"]
 The festive season, in my opinion, is one of the best periods here in Germany. 
 The Christmas decorations along with the delicious scents stemming from the quaint 
 Christkindlmärkte (Christmas Markets) in each and every city transform an ordinary 
-day into something special.<!--more--> Going along with the same spirit, we decided to make some 
+day into something special.
+<!--more-->
+
+Going along with the same spirit, we decided to make some 
 delicious gluten-free vegan pancakes with a sweet filling mainly made up of apples, raisins and nuts!
 <div style="float:right; padding:12px;">
 ![Pancake with delicious Apple Filling](/posts/pancake-with-filling.jpg)

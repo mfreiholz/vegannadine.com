@@ -6,7 +6,8 @@ tags = ["Lifestyle"]
 
 As you might have guessed, there are many pros, though also some cons, to deciding to go vegan; just as with any 
 decision you make in life. Keep on reading to find out which I have already experienced and been made aware of in 
-the relatively short amount of time that I’ve been eating plant-based.<!--more--> 
+the relatively short amount of time that I’ve been eating plant-based.
+<!--more--> 
 
 ## Feeling Completely Satisfied
 

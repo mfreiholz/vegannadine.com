@@ -8,7 +8,10 @@ Having already spent a good chunk of my life in Bavaria, Germany, an important
 thought crossed my mind while transitioning to a vegan diet. As Semmeln (German buns) 
 and bread are almost a major food group by itself and are mostly enjoyed with meat and 
 dairy products, how was I going to keep living alongside my fellow Bavarians if both 
-were no longer an option for me?<!--more-->  Of course, it wasn’t as bad as that, but I did end 
+were no longer an option for me?
+<!--more-->
+
+Of course, it wasn’t as bad as that, but I did end 
 up doing some research for some quick and easy vegan alternatives. Therefore, if you 
 are facing the same kind of struggles that I described above, keep on reading!
 

@@ -6,7 +6,9 @@ tags = ["Recipes", "Snack", "Dessert"]
 
 Living without refined, industrial sugar is maybe something to strive for. 
 However, that doesn’t mean you have to give up delicious treats such as brownies. 
-I was inspired today to create a simple no-bake, no-sugar, vegan recipe myself!<!--more--> 
+I was inspired today to create a simple no-bake, no-sugar, vegan recipe myself!
+<!--more-->
+
 The main ingredients I used are fine oats, cacao powder and dates, with a hint of banana. 
 These are perfect for dessert or a small snack in between!
 <div style="float:right; padding:12px;">

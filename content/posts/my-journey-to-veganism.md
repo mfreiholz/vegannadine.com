@@ -6,7 +6,9 @@ tags = ["Lifestyle"]
 
 A huge part in my journey to plant-based eating was YouTube. Accidentally, I would stumble upon videos about
 vegan recipes, the health benefits from this diet or some rather strange ones about only consuming a very excessive
-amount of bananas the whole day.<!--more-->
+amount of bananas the whole day.
+<!--more-->
+
 <div style="float:right; padding:12px;">
 ![Vegan Chocolate Oatmeal](/posts/my-journey-to-veganism.jpg)
 </div>

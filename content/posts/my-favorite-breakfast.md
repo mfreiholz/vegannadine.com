@@ -6,7 +6,9 @@ tags = ["Recipes", "Breakfast"]
 
 Even before I transitioned into a vegan lifestyle, I loved eating oatmeal for breakfast.
 It’s delicious, really healthy and keeps you full and satisfied for quite some time.
-My study year abroad in Limerick, Ireland a couple of years ago set me off.<!--more-->
+My study year abroad in Limerick, Ireland a couple of years ago set me off.
+<!--more-->
+
 For the Irish, it is a breakfast staple and the selection at the grocery store was endless.
 I really enjoyed the pre-packaged options on the Island, however moving back to Germany,
 I discovered that they had not as much jumped on the bandwagon yet.

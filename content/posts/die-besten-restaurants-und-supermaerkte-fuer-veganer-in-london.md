@@ -5,7 +5,9 @@ tags = ["Deutsch", "Travel", "Lifestyle"]
 +++
 
 Unser Flug landete in London relativ früh am Morgen. Trotzdem beschlossen wir, 
-uns gleich auf den Weg zu unserem Hotel zu machen, um unser Gepäck ablegen zu können.<!--more--> 
+uns gleich auf den Weg zu unserem Hotel zu machen, um unser Gepäck ablegen zu können.
+<!--more--> 
+
 Glücklicherweise wurde uns von einer sehr netten Dame geholfen, die uns gleich informierte, 
 dass ihre Kollegin auch Veganerin sei. Nachdem wir unser Zimmer besichtigt hatten, flitzten wir 
 wieder runter zur Rezeption, um die genannte Kollegin nach den besten veganen Restaurants und 

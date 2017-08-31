@@ -5,7 +5,10 @@ tags = ["Deutsch", "Travel", "Lifestyle"]
 +++
 
 Da ich die vegane Messe in London letztes Wochenende besucht habe, war das vegane Leben 
-Übersee in Großbritannien ein brennendes Thema für mich in den Tagen vor dem Abflug gewesen.<!--more--> <div style="float:right; padding:12px;">
+Übersee in Großbritannien ein brennendes Thema für mich in den Tagen vor dem Abflug gewesen.
+<!--more-->
+
+<div style="float:right; padding:12px;">
 ![Nadine in London](/posts/nadine-in-london.jpg)
 </div>Ich schaute allgemein nach veganen Restaurants und Supermärkten und zufälligerweise stolperte 
 ich über einen sehr interessanten Artikel von The Guardian.

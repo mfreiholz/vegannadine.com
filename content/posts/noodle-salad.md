@@ -5,9 +5,12 @@ tags = ["Recipes", "Dinner", "Snack"]
 +++
 
 Who cares if summer is over? Barbecues can also be a thing on cold and rainy days! 
-(As long as the BBQ is protected by some kind of roof!)<!--more--> My boyfriend and I got invited 
- over for dinner on such an evening and we decided to bring along a noodle salad which would 
- go well with the grilled meat and vegan alternatives. As we all really enjoyed it, I decided to also share it with you.
+(As long as the BBQ is protected by some kind of roof!)
+<!--more-->
+
+My boyfriend and I got invited 
+over for dinner on such an evening and we decided to bring along a noodle salad which would 
+go well with the grilled meat and vegan alternatives. As we all really enjoyed it, I decided to also share it with you.
 <div style="float:right; padding:12px;">
 ![Ingredients Noodle Salad](/posts/ingredientsnoodle-salad.jpg)
 </div>

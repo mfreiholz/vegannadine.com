@@ -6,7 +6,9 @@ tags = ["Recipes", "Dinner"]
 
 As it is pumpkin season and an abundance of pumpkins can be seen at all grocery stores in Germany, I 
 decided to try a new vegan recipe with spaghetti squash. Since pumpkin alone does not really fill one 
-up, I chose to top it with a hearty and creamy tomato sauce and a side of plant-based meatballs.<!--more--> 
+up, I chose to top it with a hearty and creamy tomato sauce and a side of plant-based meatballs.
+<!--more--> 
+
 The already-made falafels had been discovered on my last shopping trip to my favourite [bio shop] (https://basicbio.de/) 
 which is widely dispersed in Germany as well as in Austria. A large variety of 
 their products can also be found on their [online store] (http://shop.basicbio.de/). 

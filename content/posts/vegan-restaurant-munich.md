@@ -5,7 +5,10 @@ tags = ["Travel", "Restaurants"]
 +++
 
 Finding a vegan restaurant in Munich is luckily not a hard task as this city seems to be one of the first in Germany to 
-adopt and take part in ongoing trends. The restaurant which at once caught my eye is the [Gratitude Eatery] (http://www.gratitude-restaurant.de/) <!--more-->
+adopt and take part in ongoing trends.
+<!--more-->
+
+The restaurant which at once caught my eye is the [Gratitude Eatery] (http://www.gratitude-restaurant.de/)
 in the district Maxvorstadt; partly because its name sounds very similar to the very popular American [Café Gratitude] (http://cafegratitude.com/). 
 My boyfriend and I have already been there twice and I have decided to share our impression of it here today, in case you are planning 
 on having a vegan dinner in Munich yourself!
